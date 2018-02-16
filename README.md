@@ -6,6 +6,7 @@ Sterowanie wifi dla nawilżacza powietrza ME-1492 METROX w oparciu o ESP8266
 - Włączanie/wyłączanie urządzenia przez WIFI
 - Włącznie/wyłączanie jonizacji powietrza przez WIFI
 - Ustawienie zadanej wilgotności i utrzymywanie jej
+- Ustawienie ram czasowych działania urządzenia 
 - Prezentowanie danych na wbudowanym wyświetlaczu LCD
 # TODO
 - AP WIFI
@@ -16,7 +17,7 @@ Sterowanie wifi dla nawilżacza powietrza ME-1492 METROX w oparciu o ESP8266
 - Schemat podłączenia / badanie możliwości sterowania standardową elektroniką oraz odczytywanie jej stanów
 - Higrostat i termometr (DTH22)
 - MQTT
-- Dodatek to OpenHub
+- Dodatek do OpenHub
 - Wyświetlacz
 # FIN
 - Utworzenie repozytorium i określenie wymagań
